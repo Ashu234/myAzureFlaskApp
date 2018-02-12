@@ -1,0 +1,6 @@
+1. delete
+2. sorting based on rating
+3. login
+4. mysql
+5. image size restriction
+6. download
